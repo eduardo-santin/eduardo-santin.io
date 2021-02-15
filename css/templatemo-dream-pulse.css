@@ -33,7 +33,7 @@ a {
 }
 
 .tm-color-primary {
-  color: #069;
+  color: rgb(59, 0, 153);
 }
 
 .tm-color-gray {
@@ -389,7 +389,7 @@ a {
 /*---------------*/
 
 figure.effect-bubba {
-  background: #069;
+  background: rgb(0, 122, 153);
 }
 
 figure.effect-bubba img {
